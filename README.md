@@ -9,3 +9,7 @@ Toto je moje první portfolio projektů z Termuxu a Linuxu. Obsahuje:
 
 ## První skript
 - datum_a_cas.sh – jednoduchý skript, který vypisuje aktuální datum a čas
+
+Portfolio IT: https://github.com/honzavole/Termux-Linux-projekty
+- Datum_a_cas.sh – jednoduchý skript, který vypisuje aktuální datum a čas
+  
