@@ -1,0 +1,10 @@
+nano datum_a_cas.sh
+#!/bin/bash
+# Skript: datum_a_cas.sh
+echo "Aktuální datum a čas je:"
+date
+chmod +x datum_a_cas.sh
+./datum_a_cas.sh
+~/vortex $ ./datum_a_cas.sh
+Aktuální datum a čas je:
+Tue Jan 20 23:31:37 CET 2026
