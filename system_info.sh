@@ -22,3 +22,5 @@ df -h
 
 echo ""
 echo "Hotovo."
+
+echo "Záloha system_info: $(date)" >> ~/Logs/system_info_log.txt
